@@ -1,4 +1,3 @@
-# Pedido de namoro
-Este é um site feito puramente em HTML, CSS e JavaScript
+Projeto que dei fork pra pessoa que gosto
 
 
